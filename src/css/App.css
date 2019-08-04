@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: ; */
 }
 
 .App-logo {
@@ -30,4 +30,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h4.relatedNewsTitle {
+  font-size: 1em;
+  text-align: justify;
+}
+h2.post-title {
+  height: 200px !important;
 }
